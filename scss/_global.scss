@@ -3,7 +3,7 @@
 body {
   @include body-font;
   padding-top: 54px;
-  color: $gray-600;
+  color: $gray-900;
 }
 @media (min-width: 992px) {
   body {
@@ -54,7 +54,7 @@ p.lead {
     display: inline-block;
     height: 3.5rem;
     width: 3.5rem;
-    background-color: $gray-700;
+    background-color: $gray-400;
     color: $white !important;
     border-radius: 100%;
     text-align: center;
